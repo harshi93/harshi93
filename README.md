@@ -30,4 +30,4 @@
 📬 **Let’s Connect!**  
 📧 Email: singhharshit.4674@gmail.com  
 📱 Phone: +1 (201) 925-9637  
-🌐 [Portfolio/Website](https://github.com/harshi93/learnings.github.io)
+🌐 [Portfolio/Website](https://hashdecodes.gitbook.io/hashdecodes)
